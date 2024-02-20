@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    font: inherit;
+}
+
+body {
+    background-color: #515151;
+}
+
+#root {
+    display: grid;
+    place-content: center;
+    height: 100dvh;
+}
