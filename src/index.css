@@ -7,8 +7,11 @@
 }
 
 body {
-    background-color: #515151;
+    background: url(./assets/layered-waves-haikei.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 
 #root {
     display: grid;
