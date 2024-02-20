@@ -5,6 +5,9 @@ A fun project to practice React fundamentals.
 
 ![Image](./screenshots/desktop.png)
 
+## Links
+Live Link: https://praveenkum11.github.io/color-guesser/
+
 ## Mistakes Made
 
 One of the mistakes I made was attempting to make the code as modular as possible from the very beginning of the project. This approach made writing the core logic difficult, and I ended up implementing a convoluted logic that wasn't fully correct. Later, after watching Cody's video on the same topic, I rewrote the entire code as a single-file component, which was much easier to work with.
