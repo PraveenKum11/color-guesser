@@ -17,4 +17,5 @@ body {
     display: grid;
     place-content: center;
     height: 100dvh;
+    font-family: "Poppins", sans-serif;
 }

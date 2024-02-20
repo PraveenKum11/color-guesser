@@ -39,6 +39,7 @@ function App() {
 
   return (
     <div className={styles.app}>
+      <h1>Color Guesser</h1>
       <div style={{ backgroundColor: answerColor }} className={styles.colorBox}></div>
 
       <div className={styles.options}>
